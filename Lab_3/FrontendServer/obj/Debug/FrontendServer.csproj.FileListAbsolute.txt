@@ -1,0 +1,12 @@
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\FrontendServer\bin\Debug\FrontendServer.exe.config
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\FrontendServer\bin\Debug\FrontendServer.exe
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\FrontendServer\bin\Debug\FrontendServer.pdb
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\FrontendServer\bin\Debug\Common.dll
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\FrontendServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\FrontendServer\bin\Debug\RestSharp.dll
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\FrontendServer\bin\Debug\Common.pdb
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\FrontendServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\FrontendServer\bin\Debug\RestSharp.xml
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\FrontendServer\obj\Debug\FrontendServer.csprojResolveAssemblyReference.cache
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\FrontendServer\obj\Debug\FrontendServer.exe
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\FrontendServer\obj\Debug\FrontendServer.pdb

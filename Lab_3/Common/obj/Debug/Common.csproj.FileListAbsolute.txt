@@ -1,0 +1,4 @@
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\Common\bin\Debug\Common.dll
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\Common\bin\Debug\Common.pdb
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\Common\obj\Debug\Common.dll
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\Common\obj\Debug\Common.pdb

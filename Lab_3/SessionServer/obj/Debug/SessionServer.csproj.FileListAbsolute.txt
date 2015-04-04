@@ -1,0 +1,10 @@
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\SessionServer\bin\Debug\SessionServer.exe.config
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\SessionServer\bin\Debug\SessionServer.exe
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\SessionServer\bin\Debug\SessionServer.pdb
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\SessionServer\bin\Debug\Common.dll
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\SessionServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\SessionServer\bin\Debug\Common.pdb
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\SessionServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\SessionServer\obj\Debug\SessionServer.csprojResolveAssemblyReference.cache
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\SessionServer\obj\Debug\SessionServer.exe
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\SessionServer\obj\Debug\SessionServer.pdb

@@ -1,0 +1,10 @@
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\PhotosServer\bin\Debug\PhotosServer.exe.config
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\PhotosServer\bin\Debug\PhotosServer.exe
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\PhotosServer\bin\Debug\PhotosServer.pdb
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\PhotosServer\bin\Debug\Common.dll
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\PhotosServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\PhotosServer\bin\Debug\Common.pdb
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\PhotosServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\PhotosServer\obj\Debug\AutoServer.csprojResolveAssemblyReference.cache
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\PhotosServer\obj\Debug\PhotosServer.exe
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\PhotosServer\obj\Debug\PhotosServer.pdb

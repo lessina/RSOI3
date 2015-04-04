@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+	<head>
+		<META content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <style type="text/css">
+ 
+            body {font-family:Arial, Sans-Serif;}
+ 
+            #container {width:470px; margin:0 auto;}
+
+            /* Nicely lines up the labels. */
+            form label {display:inline-block; width:80px;}
+ 
+            /* You could add a class to all the input boxes instead, if you like. That would be safer, and more backwards-compatible */
+            form input[type="text"],
+            form input[type="password"],
+            form input[type="email"] {width:170px;}
+ 
+            form .line {clear:both;}
+            form .line.submit {text-align:right;}
+        </style>
+    </head>
+   <body>
+        <div id="container">
+			<div>
+				<h1>Авторизация</h1>
+				<div><a href="http://localhost:8080/check" tite="Registration">http://localhost/check</a></div>
+				<div><a href="http://localhost:8080/login" tite="Login">http://localhost/login</a></div>
+				<div><a href="http://localhost:8080/logout" tite="Logout">http://localhost/logout</a></div>
+				<h1>Управление данными</h1>
+				<p>Доступ только при наличии авторизации.</p>
+				<div><a href="http://localhost:8080/clientsmanage" tite="Clients control">http://localhost/clientsmanage</a></div>
+				<div><a href="http://localhost:8080/automanage" tite="Photos control">http://localhost/automanage</a></div
+			</div>
+			<form action ="http://localhost:8080/clients" method="GET">
+                <h1>Запрос к backend "Владельцы авто"</h1>
+				<p>Без авторизации доступно только получение списка владельцев без детальной информации.</p>
+                <div class="line"> <label for="name">	Name 	: </label>	<input type="text" name="name" /></div>
+                <div class="line"> <label for="address">Address : </label>    <input type="text" name="address" /></div>
+                <div class="line"> <label for="tel"> 	Tel 	: </label>    <input type="text" name="tel" /></div>
+				<div class="line submit">                                     	<input type="submit" value="Принять" /></div>
+            </form>
+			<form action ="http://localhost:8080/auto" method="GET">
+                <h1>Запрос к backend "Автомобили" </h1>
+				<p>Без авторизации доступен пробег автомобиля.</p>
+                <div class="line"> <label for="owner">	Owner : </label>       <input type="text" name="owner" /></div>
+                <div class="line"> <label for="mileage"> 	Mileage :  </label>       <input type="text" name="mileage" /></div>
+				<div class="line submit">                                     	<input type="submit" value="Принять" /></div>
+            </form>
+			<form action ="http://localhost:8080/auto_of_users" method="GET">
+                <h1>Агрегированный запрос</h1>
+				<p>Возможен с авторизацией.</p>
+				<div class="line submit"><input type="submit" value="Принять" /></div>
+            </form>
+        </div>
+    </body>
+</html>

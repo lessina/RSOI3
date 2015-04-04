@@ -1,0 +1,10 @@
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\ClientsServer\bin\Debug\ClientsServer.exe.config
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\ClientsServer\bin\Debug\ClientsServer.exe
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\ClientsServer\bin\Debug\ClientsServer.pdb
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\ClientsServer\bin\Debug\Common.dll
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\ClientsServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\ClientsServer\bin\Debug\Common.pdb
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\ClientsServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\ClientsServer\obj\Debug\ClientsServer.csprojResolveAssemblyReference.cache
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\ClientsServer\obj\Debug\ClientsServer.exe
+C:\Users\Оля\Downloads\RSOI3-master\RSOI3-master\Lab_3\ClientsServer\obj\Debug\ClientsServer.pdb

@@ -1,0 +1,41 @@
+﻿<!doctype html>
+<html>
+    <head>
+		<META content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <style type="text/css">
+ 
+            body {font-family:Arial, Sans-Serif;}
+ 
+            #container {width:600px; margin:0 auto;}
+ 
+            /* Nicely lines up the labels. */
+            form label {display:inline-block; width:160px;}
+ 
+            /* You could add a class to all the input boxes instead, if you like. That would be safer, and more backwards-compatible */
+            form input[type="text"],
+            form input[type="password"],
+            form input[type="email"] {width:160px;}
+ 
+            form .line {clear:both;}
+            form .line.submit {text-align:right;}
+ 
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <form action ="/clientsmanage-submit" method="POST">
+                <h1>Управление владельцами машин </h1>
+				<p>READ and DELETE по id.</p>
+				<p>id не указывается при PUT.</p>
+                <div class="line"> <label for="id">		id : </label>       <input type="text" name="id" /></div>
+                <div class="line"> <label for="name">	name : </label>     <input type="text" name="name" /></div>
+				<div class="line"> <label for="address"> address : </label>  <input type="text" name="address" /></div>
+                <div class="line"> <label for="tel">	tel : </label>    <input type="text" name="tel" /></div>
+				<div class="line submit">           <input type="submit" name = "button" value="READ" /></div>
+				<div class="line submit">           <input type="submit" name = "button" value="CREATE" /></div>
+				<div class="line submit">           <input type="submit" name = "button" value="UPDATE" /></div>
+				<div class="line submit">           <input type="submit" name = "button" value="DELETE" /></div>
+            </form>
+        </div>
+    </body>
+</html>
